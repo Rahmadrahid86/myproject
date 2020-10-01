@@ -130,6 +130,11 @@ header {
 	width: 75%;
 }
 
+aside {
+	width: 100%;
+	padding: 0;
+}
+
 footer {
 	padding: 20px;
 	color: white;
@@ -143,10 +148,7 @@ footer {
 		width: 50%;
 	
 	}
-	aside {
-	width: 100%;
-	padding: 0;
-}
+	
 }
 
 @media all and (max-width: 670px) {
